@@ -1,2 +1,2 @@
 # Repositorio Prueba
-Esto es solopara probar las capacidades que tengo en esta plataforma
+Esto es solo para probar las capacidades que tengo en esta plataforma
